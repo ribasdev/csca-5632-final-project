@@ -50,6 +50,6 @@ The analysis uses the "Mall Customer Segmentation Data" available on Kaggle. Thi
 
 ## Requirements
 
-To run the project, install the required Python libraries using the `requirements.txt` file:
+To run the project, ensure you are using **Python 3.11**. Install the required Python libraries using the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
